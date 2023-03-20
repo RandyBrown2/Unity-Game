@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c03075d9ee38eda46945e2318e49ba88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - progressbar: {instanceID: 0}
+  - timerobj: {instanceID: 0}
+  - timerClock: {fileID: 8300000, guid: a20eae493ee2c8a4d89ca75b1232a1ba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
